@@ -97,7 +97,7 @@ div>ul>li>a>span{
 
 #main{grid-area: main;
     text-align: center;
-    border: 1px solid #BEBABA;
+/*     border: 1px solid #BEBABA; */
     color: #322522;
     }
  .images_show{
